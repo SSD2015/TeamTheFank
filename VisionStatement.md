@@ -3,7 +3,9 @@
 ##Who
   The participant of the eXceed Camp, Camp Instructor and guest are the target of this application.
 ##What
-* Easy to use
+* Easy to reconfig
 * Compatable to all device
-* etc.
+* Mobile application
+* etc
+
 ##Vision
