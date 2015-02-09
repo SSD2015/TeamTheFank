@@ -10,4 +10,4 @@
 | 5610546729 | @RookieMo | Thanaphon Ketsin |
 
 #Assignment :
-* Assignment 1: (https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
+* Assignment 1: [Link](https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
