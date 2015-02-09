@@ -21,6 +21,8 @@
 * Limited time
 * User's achievement
 * Show results when time up
+* Can be local server and online server
 
 ##Vision
+
 
