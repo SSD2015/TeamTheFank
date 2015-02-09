@@ -7,7 +7,7 @@
   We want a application for voting each project in exeed camp. Because we want comfortable and not cheatable. This application will use by Participant, Organizer and Guest. Without application, Paper vote is a old method but it cause many problems and not reliable. For using this application it make vote easier, more reliable and comfortable when we calculate the result of vote.
   
 ##What is it?
-  ###How will it be used?
+  ## How will it be used?
     - This application will ba a web application with java code.It can run on any web browser ,so it compatable in any device.
     - The server of tihs web application will host in local and online network.
     - Have an authentication system to verify themselves before they vote on any team.
