@@ -1,7 +1,7 @@
 ## Glossary
 
 ## eXceed Camp
-  This camp use for impoving programing skill in group in real situation. A group have 4-5 people. The camp take 7 days at Saen Palm resort. The camp take 6 days for learning skill and doing activities and 1 day for create product and presentation.
+  This camp use for improving programming skill in group in real situation. A group has 4-5 people. The camp take 7 days at Saen Palm resort. The camp take 6 days for learning skill and doing activities and 1 day for create product and presentation.
   
 ## Project
   The product what make in this camp.
