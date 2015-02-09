@@ -6,7 +6,7 @@
 ##What is the need?
   We want a application for voting each project in exeed camp. Because we want comfortable and not cheatable. This application will use by Participant, Organizer and Guest. Without application, Paper vote is a old method but it cause many problems and not reliable. For using this application it make vote easier, more reliable and comfortable when we calculate the result of vote.
   
-  ![Running](TeamTheFank/image/MoqUP.PNG)
+  ![Running](image/MoqUP.PNG)
   
 ##What is it?
 ###How will it be used?
