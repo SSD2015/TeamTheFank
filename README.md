@@ -12,6 +12,6 @@
 #Assignment :
 * [Vision Statement](https://github.com/SSD2015/TeamTheFank/blob/master/VisionStatement.md)
 * [Glossary](https://github.com/SSD2015/TeamTheFank/blob/master/Glossary.md)
-* [Informal Use Cases]() : In progress
+* [Informal Use Cases](InformalUsecase.md)
 * [Supplementary Requirements] (https://github.com/SSD2015/TeamTheFank/blob/master/Supplementary%20Requirements.md)
 * [Compare Java Web Frameworks](https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing): In progress
