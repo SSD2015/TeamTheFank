@@ -11,3 +11,9 @@
 
 #Assignment :
 * Assignment 1: [Link](https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
+
+* [Vision Statement](https://github.com/SSD2015/TeamTheFank/blob/master/VisionStatement.md)
+* [Glossary](https://github.com/SSD2015/TeamTheFank/blob/master/Glossary.md)
+* [Informal Use Cases]() : In progress
+* [Supplementary Requirements] (https://github.com/SSD2015/TeamTheFank/blob/master/Supplementary%20Requirements.md)
+* [Compare Java Web Frameworks] () : In progress
