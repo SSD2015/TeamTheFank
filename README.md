@@ -8,3 +8,6 @@
 | 5610546753 | @new08242 | Nathas Yingsukamol |
 | 5610545692 | @thanachote-Frank | Thanachote Visetsuthimont |
 | 5610546729 | @RookieMo | Thanaphon Ketsin |
+
+#Assignment :
+* Assignment 1: (https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
