@@ -24,5 +24,16 @@
 * Can be local server and online server
 
 ##Vision
+* Use web appication
+* Use database
+* Simple UI
+* Use session
+* Use QR code or PIN or barcode for checkpoint
+* Admin can edit everything
+* Have GUI for config server
+* Register page
+* Use HTTPS
+* Team have a space for introduction 
+
 
 
