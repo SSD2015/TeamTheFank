@@ -22,6 +22,7 @@
 * User's achievement
 * Show results when time up
 * Can be local server and online server
+* User have to checkpoint before voting
 
 ##Vision
 * Use web appication
