@@ -1,7 +1,7 @@
 ## Glossary
 
 ## eXceed Camp
-  This camp use for impoving programing skill in group in real situation. A group have 4-5 people. The camp take 7 days at Saen Palm resort. The camp take 6 day for learning and doing activities and 1 day for create product and presentation.
+  This camp use for impoving programing skill in group in real situation. A group have 4-5 people. The camp take 7 days at Saen Palm resort. The camp take 6 days for learning skill and doing activities and 1 day for create product and presentation.
   
 ## Project
   The product what make in this camp.
@@ -10,7 +10,7 @@
   The group which create product. 4-5 people per group. 
   
 ## Organizers
-  The second year of CPE and SKE student who want to be organizers.
+  The second year of CPE and SKE students who want to be organizers.
   
 ## QR code
   Use for identity for each person or group. This function require camera.
@@ -25,7 +25,7 @@
   The person who don't associate at this camp.
 
 ## Participant
-  The first year of CPE and SKE student.
+  The first year of CPE and SKE students.
   
 ## Session
   Use for save value in server.
