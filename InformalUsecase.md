@@ -39,4 +39,4 @@
     
 ##UC10.Achievement
 - PA: User
-- Usercan go to the achievement page to see that which group they have visit or not.
+- User can go to the achievement page to see that which group they have visit or not.
