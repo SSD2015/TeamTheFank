@@ -1,6 +1,6 @@
-#Group name : TheFrank
+#Group name: TheFrank
 
-#Member :
+#Member:
 | ID | GitHub | Name |
 | ---------- | ------------------- | ------------------------- |
 | 5610546681 | @kittinan1 | Kittinan Napapongsa |
@@ -9,7 +9,7 @@
 | 5610545692 | @thanachote-Frank | Thanachote Visetsuthimont |
 | 5610546729 | @RookieMo | Thanaphon Ketsin |
 
-#Assignment :
+#Assignment:
 * [Vision Statement](VisionStatement.md)
 * [Glossary](Glossary.md)
 * [Informal Use Cases](InformalUsecase.md)
