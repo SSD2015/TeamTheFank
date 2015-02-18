@@ -10,7 +10,7 @@
   The group which create product. 4-5 people per group. 
   
 ## Organizers
-  The second year of CPE and SKE students who want to be organizers.
+  The second year of CPE and SKE students who want to be organizers. Including the professors.
   
 ## QR code
   Use for identity for each person or group. This function require camera.
