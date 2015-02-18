@@ -7,8 +7,22 @@ See [Glossary](Glossary.md)
 None.
 
 ##Positioning
-###Problem Statement
+| | |
+|:------------- |:---------------------------------- |
+| The problem of | Users are uncomfortable and not cheatable |
+| Affects | People who join the eXceed camp |
+| The impact of which is | The old method is unreliability, slowly, uncomfortable and unsecure  |
+| A successful solution would | Support more users, access the appication easily and be more simple |
+
 ###Product Position Statement
+| | |
+|:------------- |:---------------------------------- |
+| For | Kasetsart University students, professors |
+| Who | SKE and CPE students and professors who join this camp |
+| The Exceed camp vote System | Is a tool |
+| That | Enables online voting and access the information each teams |
+| Unlike | The old method is  out-of-date |
+| Our product | Provides the real time result, online voting and update the information of your team |
 
 ##Stakeholder and User Descriptions
 ###Stakeholder Summary
