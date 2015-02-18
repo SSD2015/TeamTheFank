@@ -15,4 +15,4 @@
 * [Informal Use Cases](InformalUsecase.md)
 * [Supplementary Requirements](Supplementary%20Requirements.md)
 * [Compare Java Web Frameworks](https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
-* [Domain Model](Domain Madel.md)
+* [Domain Model](Domain Model.md)
