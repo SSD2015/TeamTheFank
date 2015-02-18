@@ -47,9 +47,8 @@ None.
 
 
 ###User Summary
-| | | | |
-|:------------- |:---------------------------------- |:---------------------------------- |:---------------------------------- |
 | Name | Description | Responsibilities | Stakeholder |
+|:------------- |:---------------------------------- |:---------------------------------- |:---------------------------------- |
 | Participant | Student | Create or join group, Do and present project, and vote for other group | self-represented |
 |Guest | Anybody else who join the Exceed camp | Attend on presentation of each group and vote for them | self-represented |
 
