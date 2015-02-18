@@ -1,8 +1,13 @@
 #Vision Statement
 ##Table of contents
-[Other Product Requirements](#Other_Product_Requirements)
+-[Introduction](#Introduction)
+-[Positioning](#Positioning)
+-[Stakeholder and User Descriptions](#Stakeholder_and_User_Descriptions)
+-[Product Overview](#Product_Overview)
+-[Product Features](# Product_Features)
+-[Other Product Requirements](#Other_Product_Requirements)
 
-
+<a name="Introduction"/>
 ##Introduction
 The purpose of this document is to collect, analyze and define high-level needs and features of the Exceed vote application.
 ###Definitions, Acronyms and Abbreviations
@@ -10,6 +15,7 @@ See [Glossary](Glossary.md)
 ###References
 None.
 
+<a name="Positioning"/>
 ##Positioning
 | | |
 |:------------- |:---------------------------------- |
@@ -28,6 +34,7 @@ None.
 | Unlike | The old method is  out-of-date |
 | Our product | Provides the real time result, online voting and update the information of your team |
 
+<a name="Stakeholder_and_User_Descriptions"/>
 ##Stakeholder and User Descriptions
 ###Stakeholder Summary
 | Name | Description | Responsibilities |
@@ -47,10 +54,12 @@ None.
 
 ###Alternatives and Competition
 
+<a name="Product_Overview"/>
 ##Product Overview
 ###Product Perspective
 ###Assumptions and Dependencies
 
+<a name="Product_Features"/>
 ##Product Features
 This section defines and describes the features of the Exceed camp vote system.
 
