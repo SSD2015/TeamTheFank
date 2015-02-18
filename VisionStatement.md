@@ -64,6 +64,8 @@ None.
 ###Key Stakeholder or User Needs
 | Need | Priority | Concerns | Current Solution | Proposed Solutions |
 | ------- | ------ | ---------------| ------------------ | ------------------ |
+| Registration | High | - | - | User have to regis for online system accessing. |
+| Vote | High | The vote can be cheating | User vote and verify identity by student's ID only. | User have only one account for voting and must checkpoint by using secret key before voting |
 
 
 ###Alternatives and Competition
