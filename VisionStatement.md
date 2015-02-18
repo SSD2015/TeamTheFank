@@ -1,11 +1,11 @@
 #Vision Statement
 ##Table of contents
--[Introduction](#Introduction)
--[Positioning](#Positioning)
--[Stakeholder and User Descriptions](#Stakeholder_and_User_Descriptions)
--[Product Overview](#Product_Overview)
--[Product Features](# Product_Features)
--[Other Product Requirements](#Other_Product_Requirements)
+- [Introduction](#Introduction)
+- [Positioning](#Positioning)
+- [Stakeholder and User Descriptions](#Stakeholder_and_User_Descriptions)
+- [Product Overview](#Product_Overview)
+- [Product Features](# Product_Features)
+- [Other Product Requirements](#Other_Product_Requirements)
 
 <a name="Introduction"/>
 ##Introduction
