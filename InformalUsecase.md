@@ -25,18 +25,14 @@
 - Condition: Must scan QR code from the group that user want to vote before voting. The other way is insert the pin code of that group.
 - After entering pin code or scan QR code user will go to voting page of that group. User can select the score from 0 to 5 to vote that group. User can re-vote by go to that group page and vote again.
     
-##UC7.Back button
-- PA: User and Admin
-- User and Admin can go back to the main menu page by clicking or tapping on back button at the top of the page.
-    
-##UC8.Scanning QR code
+##UC7.Scanning QR code
 - PA: User and Organization
 - User tapping on scan button. It will show user's QR code. User must give their QR code to the organization to scan it; then scan the QR code from the organization to get achievement that visit that group.
     
-##UC9.Pin code
+##UC8.Pin code
 - PA:User and Organization
 - User clicking on pin button. It will show user's pin code. User give the organization the pin code then organization insert the code then user click next button and insert the group's pin code to get achievement that visit that group.
     
-##UC10.Achievement
+##UC9.Achievement
 - PA: User
 - User can go to the achievement page to see that which group they have visit or not.
