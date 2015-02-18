@@ -48,6 +48,28 @@ None.
 ###Assumptions and Dependencies
 
 ##Product Features
+This section defines and describes the features of the Exceed camp vote system.
+
+###Register
+User have to regis by use student code.
+
+###Login
+The system allow user who regised.
+
+###Achievement
+The system shows the teams which user voted. 
+
+###Check point
+The system confirm that user visited that team by using QR code or PIN. They have to exchange each other.   
+
+###Voting
+The system record user's vote. User can change your votes by voting again.
+
+###Result of voting
+The sysem allow user who is admin only to access the result.
+
+###Description
+The system allow user who is member of that team can edit team's description.
 
 ##Other Product Requirements
 ###Usability
