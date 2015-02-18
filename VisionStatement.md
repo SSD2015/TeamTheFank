@@ -70,7 +70,7 @@ None.
 <a name="Product_Overview"/>
 ##Product Overview
 ###Product Perspective
-![Running](TeamTheFank/image/MOQ.PNG)
+![Running](image/MOQ.PNG)
 ###Assumptions and Dependencies
 - It is assumed that the server support Play framework (Java)
 
