@@ -1,6 +1,10 @@
 #Vision Statement
 ##Introduction
+The purpose of this document is to collect, analyze and define high-level needs and features of the Exceed vote application.
+###Definitions, Acronyms and Abbreviations
+See [Glossary](Glossary.md)
 ###References
+None.
 
 ##Positioning
 ###Problem Statement
