@@ -32,7 +32,7 @@
     
 ##UC8.Scanning QR code
 - PA: User and Organization
-- User tapping on scan button. It will show user's QR code. User must give their QR code to the organization to scan it; then scan the QR code from the organization to get achievement that visit that group.
+- User tapping on scan button. It will show user's QR code. User must give their QR code to the organization to scan it then scan the QR code from the organization to get achievement that visit that group.
     
 ##UC9.Pin code
 - PA: User and Organization
