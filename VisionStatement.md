@@ -54,7 +54,7 @@ None.
 
 
 ###User Environment
-- lidividual will regis to vote system. After that their duty is to visit all group and verify themself to each group to have a permission to vote for that group. Verify method is to exchange QR Code or PIN with that group.
+- lndividual will regis to vote system. After that their duty is to visit all group and verify themself to each group to have a permission to vote for that group. Verify method is to exchange QR Code or PIN with that group.
 - Users will be expected to have a browser-enabled device for viewing content. If they have devices capable of viewing video or audio clips, this content will also be available to the user.
 - Paticipant will be expected to have a browser-enabled device for manage their own team page.
 - Organizer will require a browser-enabled device for manage system and viewing system status.
