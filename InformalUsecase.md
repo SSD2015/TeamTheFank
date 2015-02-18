@@ -13,17 +13,17 @@
 - User and admin log out by clicking or tapping on log out button.
   
 ##UC4.Editing group description
-- PA: Organization
-- The user organization have their own group page presenting the project. When the organization select edit, it go to edit description page and write their project description.
+- PA: team
+- The team have their own group page presenting the project. When the team select edit, it will go to edit description page then write their project description.
   
 ##UC5.See the group's description
 - PA: User
-- Condition: User and a member of that group must exchange QR code each other. The other way is PIN.
+- Condition: User must have an achievement of the group that user want to vote.
 - User see the description by selecting group from the menu group list.
     
 ##UC6.Voting
 - PA: User
-- Condition: User and a member of that group must exchange QR code each other. The other way is PIN.
+- Condition: User must have an achievement of the group that user want to vote.
 - User select the type and then select the score from 0 to 5 to vote that group. User have to vote all type before submit.
 
 ##UC7.Re-Vote
@@ -31,13 +31,13 @@
 - User re-vote by go to the page of the group that user want to re-vote and then vote that group again.
     
 ##UC8.Scanning QR code
-- PA: User and organization
-- First, it shows user's QR code. Next, User must give their QR code to the organization to scan it then scans the QR code from the organization.
+- PA: User and team
+- User ask for QR code from team and insert the QR code then the team ask the user for QR code and insert it too. User will get an achievement of that team meaning that the user have visited that team.
     
 ##UC9.PIN code
-- PA: User and organization
-- First, it shows user's PIN code. Next, User gives the organization the pin code then organization insert the code then user click next button and insert the group's PIN code.
+- PA: User and team
+- User ask for PIN code from team and insert the PIN code then the team ask the user for PIN code and insert it too. User will get an achievement of that team meaning that the user have visited that team.
     
 ##UC10.Achievement
 - PA: User
-- Go to the achievement page to see that which group they voted or not by going to achievement page.
+- Go to the achievement page to see that which group they have visited or not by going to achievement page.
