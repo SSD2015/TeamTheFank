@@ -36,15 +36,26 @@ None.
 
 <a name="Stakeholder_and_User_Descriptions"/>
 ##Stakeholder and User Descriptions
+- This section describes the users of Exceed camp vote system. There are 3 types of user of the Exceed-Vote System; the Organizers, the Participants, and Guests.
+
 ###Stakeholder Summary
 | Name | Description | Responsibilities |
-| ------------------ | ----------------- | ---------------------------------- | 
+|Organizer|Staff of the Exceed camp|Manage and monitor vote system, an attend on presentation of each group and vote for them|
+|Participant|Student|Create or join group, Do and present project, and vote for other group|
+|Guest|Anybody else who join the Exceed camp|Attend on presentation of each group and vote for them|
+
 
 ###User Summary
 | Name | Description | Responsibilities | Stakeholder |
-| ------------------ | ---------- | ------------- | ------------------------- |
+|Participant|Student|Create or join group, Do and present project, and vote for other group|self-represented|
+|Guest|Anybody else who join the Exceed camp|Attend on presentation of each group and vote for them|self-represented|
+
 
 ###User Environment
+- lidividual will regis to vote system. After that their duty is to visit all group and verify themself to each group to have a permission to vote for that group. Verify method is to exchange QR Code or PIN with that group.
+- Users will be expected to have a browser-enabled device for viewing content. If they have devices capable of viewing video or audio clips, this content will also be available to the user.
+- Paticipant will be expected to have a browser-enabled device for manage their own team page.
+- Organizer will require a browser-enabled device for manage system and viewing system status.
 
 
 ###Key Stakeholder or User Needs
