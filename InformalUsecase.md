@@ -6,11 +6,11 @@
   
 ##UC2.Login
 - PA: User and admin
-- User and admin login using their own username and password. If the account is admin, it will go to admin's page; but if the account is user, it will go to user's page.
+- User and admin log in using their own username and password. If the account is admin, it will go to admin's page; but if the account is user, it will go to user's page.
   
 ##UC3.Logout
 - PA: User and admin
-- User and admin logout by clicking or tapping on logout button.
+- User and admin log out by clicking or tapping on log out button.
   
 ##UC4.Editing group description
 - PA: Organization
@@ -32,11 +32,11 @@
     
 ##UC8.Scanning QR code
 - PA: User and organization
-- First, it show user's QR code. Next, User must give their QR code to the organization to scan it then scans the QR code from the organization.
+- First, it shows user's QR code. Next, User must give their QR code to the organization to scan it then scans the QR code from the organization.
     
 ##UC9.PIN code
 - PA: User and organization
-- First, It show user's pin code. Next, User gives the organization the pin code then organization insert the code then user click next button and insert the group's pin code.
+- First, it shows user's PIN code. Next, User gives the organization the pin code then organization insert the code then user click next button and insert the group's PIN code.
     
 ##UC10.Achievement
 - PA: User
