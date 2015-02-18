@@ -55,17 +55,17 @@ None.
 
 
 ###User Environment
-- lndividual will regis to vote system. After that their duty is to visit all group and verify themself to each group to have a permission to vote for that group. Verify method is to exchange QR Code or PIN with that group.
+- lndividual will enroll to vote system. After that their duty is to visit all group and verify them self to each group to have a permission to vote for that group. Verify method is to exchange QR Code or PIN with that group.
 - Users will be expected to have a browser-enabled device for viewing content. If they have devices capable of viewing video or audio clips, this content will also be available to the user.
-- Paticipant will be expected to have a browser-enabled device for manage their own team page.
+- Participant will be expected to have a browser-enabled device for manage their own team page.
 - Organizer will require a browser-enabled device for manage system and viewing system status.
 
 
 ###Key Stakeholder or User Needs
 | Need | Priority | Concerns | Current Solution | Proposed Solutions |
 | ------- | ------ | ---------------| ------------------ | ------------------ |
-| Registration | High | - | - | User have to regis for online system accessing. |
-| Vote | High | The vote can be cheating | User vote and verify identity by student's ID only. | User have only one account for voting and must checkpoint by using secret key before voting |
+| Registration | High | - | - | User have to enroll for online system accessing. |
+| Vote | High | The vote can be cheating | User vote and verify identity by student's ID only. | User has only one account for voting and must checkpoint by using secret key before voting |
 
 
 ###Alternatives and Competition
