@@ -40,15 +40,15 @@ None.
 
 ###Stakeholder Summary
 | Name | Description | Responsibilities |
-|Organizer|Staff of the Exceed camp|Manage and monitor vote system, an attend on presentation of each group and vote for them|
-|Participant|Student|Create or join group, Do and present project, and vote for other group|
-|Guest|Anybody else who join the Exceed camp|Attend on presentation of each group and vote for them|
+| Organizer | Staff of the Exceed camp | Manage and monitor vote system, an attend on presentation of each group and vote for them |
+| Participant | Student | Create or join group, Do and present project, and vote for other group |
+| Guest | Anybody else who join the Exceed camp | Attend on presentation of each group and vote for them |
 
 
 ###User Summary
 | Name | Description | Responsibilities | Stakeholder |
-|Participant|Student|Create or join group, Do and present project, and vote for other group|self-represented|
-|Guest|Anybody else who join the Exceed camp|Attend on presentation of each group and vote for them|self-represented|
+| Participant | Student | Create or join group, Do and present project, and vote for other group | self-represented |
+|Guest | Anybody else who join the Exceed camp | Attend on presentation of each group and vote for them | self-represented |
 
 
 ###User Environment
