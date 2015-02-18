@@ -58,6 +58,7 @@ None.
 ##Product Overview
 ###Product Perspective
 ###Assumptions and Dependencies
+- It is assumed that the server support Play framework (Java)
 
 <a name="Product_Features"/>
 ##Product Features
