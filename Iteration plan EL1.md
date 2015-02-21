@@ -6,9 +6,9 @@
 | The project have two sites | User can access to the website 2 ways for mobile and desktop |
 | The project can connect to the database | The system can connet to the database |
 | The user's authenticate system | User can login to the system |
-| The project has main menu page | User can access to main menu page and it can link to other pages |
-| The project has voting page | User can access to voting page but it can't vote anything |
-| The project has team list and description | User can access to team list page and also can see their description |
+| Main menu page | User can access to main menu page and it can link to other pages |
+| Prototype voting pages | User can access to voting pages but they can't vote anything |
+| Team list and description pages | User can access to team list page and also can see their description |
 
 
 ## Iteration Objective(s)
