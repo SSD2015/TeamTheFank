@@ -5,7 +5,7 @@
 |-----------|-----------------------------------------|
 | The project have two sites | User can access to the website 2 ways for mobile and desktop |
 | The project can connect to the database | The system can connect to the database |
-| The user's authenticate system | User can log in to the system |
+| The user's authentication system | User can log in to the system |
 | Main menu page | User can access to main menu page and it can link to other pages |
 | Prototype voting pages | User can access to voting pages but they can't vote anything |
 | Team list and description pages | User can access to team list page and also can see their description |
