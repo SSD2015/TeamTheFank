@@ -10,7 +10,7 @@
 | 5610546729 | @RookieMo | Thanaphon Ketsin |
 
 #Websites
-* For desktop [exceedvote2015.cf](http://exceedvote2015.cf)
+* ~~For desktop [exceedvote2015.cf](http://exceedvote2015.cf)~~  -->Unavailable 
 * For moblie [m.exceedvote2015.cf](http://m.exceedvote2015.cf)
 
 #Assignment:
