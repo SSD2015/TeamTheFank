@@ -21,4 +21,4 @@
 * [Compare Java Web Frameworks](https://docs.google.com/document/d/1o8bMPrYDwTdEttYjW-ho9TOFRJf3J8HkiTGMGTgfWfw/edit?usp=sharing)
 * [Domain Model](Domain Model.md)
 * [Iteration plan EL1](Iteration plan EL1.md)
-*  [Iteration plan EL2](Iteration Plan for EL2.md)
+*  [Iteration plan EL2](Iteration plan EL2.md)
