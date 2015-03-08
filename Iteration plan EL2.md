@@ -4,11 +4,11 @@
 | Milestone | Description, Evaluation Criteria, Work Products |
 |-----------|-----------------------------------------|
 | Rating system | User can rate and then save them in database. User can also modify their rating. |
-| Result of rating | The system can show the best teams for each criterias and overall. |
+| Result of rating | The system can show the best teams for each criteria and overall. |
 | Upload function | User can upload their images for their team and product. |
 | User types | The system can classify user. |
 | Testing | Checkup for make sure that the basic functions can work correctly. |
-| Desktop version | Finding the way which tranform from mobile version to desktop and create it. |
+| Desktop version | Finding the way which transform from mobile version to desktop and create it. |
 
 
 ## Iteration Objective(s)
