@@ -20,7 +20,7 @@
 | Show result of rating | 1 |
 | Add special functions for some user types | 3 |
 | Upload logo of team | 4 |
-| Upload snapshot of product | 4 |
+| Upload screenshots of product | 4 |
 
 
 ## Unplanned Work
