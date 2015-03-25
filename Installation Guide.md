@@ -1,5 +1,5 @@
 #Requirement
-  You need to download [PostgreSQL](http://www.postgresql.org/) to access our Database (Our password is 1234), if you use Window operation you need to instal [Git](http://git-scm.com/) to run application.
+  You need to install [PostgreSQL](http://www.postgresql.org/) to access our Database (Password is 1234 when install), if you use Window operation you need to install [Git](http://git-scm.com/) to run application.
   
 #Installation Guide
 ##OSX operation
