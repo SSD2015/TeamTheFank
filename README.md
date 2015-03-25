@@ -22,3 +22,4 @@
 * [Domain Model](Domain Model.md)
 * [Iteration plan EL1](Iteration plan EL1.md)
 *  [Iteration plan EL2](Iteration plan EL2.md)
+* [Installation Guide](Installation Guide.md)
