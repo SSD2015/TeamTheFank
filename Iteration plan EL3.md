@@ -13,6 +13,8 @@
 | A account function for admin | 4 |
 | A criteria function for admin | 4 |
 | A team function for admin | 4 |
+| Permission of each features for admin | 3 |
+| Changing weight of each user types function for admin | 4 |
 | Set time out | 2 |
 | Weighted average score | 3 |
 
